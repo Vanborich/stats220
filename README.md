@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to my **stats220** repository! This project contains the work and resources for the statistics course, Stats220. Below, you’ll find an example of different Markdown syntax used in this file.
+Welcome to my **stats220** repository! This project contains my work and resources for the statistics course, Stats220. Below, you’ll find an example of different Markdown syntax I used in this file.
 
 ### Features Demonstrated
 
@@ -42,4 +42,3 @@ Here’s a funny **animated GIF** that demonstrates the importance of coding:
 
 ---
 
-Check out my full GitHub repo: [Stats220 Repo](https://github.com/your-username/stats220)
