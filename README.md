@@ -41,4 +41,4 @@ Here’s a funny **animated GIF** that demonstrates the importance of coding:
 ![Coding GIF](https://media.giphy.com/media/l3q2K5ji0puGuxc5y/giphy.gif)
 
 ---
-
+Check out my full GitHub repo: [Stats220 Repo](https://github.com/Vanborich/stats220)
