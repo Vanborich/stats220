@@ -1,0 +1,18 @@
+---
+title: "My_dynamic_report"
+output: html_fragment
+date: "2025-03-29"
+
+
+{r setup, include=FALSE out.width='40%'}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Youtube ad analysis
+
+This report looks at the ads collected from YouTube and summarizes some key details. It includes the relevancy, their average length, and a breakdown of different ad types. Two bar charts help visualise the data. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+```{r, echo=FALSE}
+knitr::include_graphics("statsgraph2.PNG")
+```
+![Graph from project](project2graph.png)
+
+  
